@@ -23,8 +23,7 @@ st.set_page_config(
 )
 
 ROOT = Path(__file__).parent
-DATA_PATH = ROOT / "data" / "indb_foods.csv"
-
+DATA_PATH = ROOT / "indb_foods.csv"
 FEATURES = [
     "energy_kcal_100g",
     "carbohydrate_g_100g",
