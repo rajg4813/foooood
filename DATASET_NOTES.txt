@@ -1,0 +1,3 @@
+indb_foods.csv is a 16-column extract created from the original Anuvaad_INDB_2024.11.xlsx workbook.
+Source workbook dimensions: 1,014 food records x 82 fields (excluding header row).
+The app uses per-100-g nutrient fields for consistent comparisons.
